@@ -48,7 +48,7 @@ const numArray5 = [0]
 console.log('Test case 5:', findFirstMissing(numArray5)); // Output: -1
 
 // Test case 6 (Array with a single element)
-const numArray6 = [0]
+const numArray6 = [1]
 console.log('Test case 6:', findFirstMissing(numArray6)); // Output: -1
 
 // Test case 7 (Array with two elements)
